@@ -1,4 +1,4 @@
-# Projects
+# BlackJack
 
 
-This repository includes my projects which showcase the hands on experience of the technologies
+This repository includes my BlackJack Game project which showcase the hands on experience on the Python programming knowledge
