@@ -15,3 +15,4 @@ make sure to download the cards zip and extract it to get the "cards.ppm" files 
 # Steps:
 
 Simple!! , just run the Run.py file and voila!!
+now you can start playing
